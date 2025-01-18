@@ -5,3 +5,5 @@ tls
 *.cert
 
 node_modules
+
+*.pem
